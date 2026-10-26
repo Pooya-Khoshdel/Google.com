@@ -1,0 +1,42 @@
+.header{
+    width: 100%;
+    text-align: right;
+    direction: rtl;
+}
+a{
+    text-decoration: none;
+}
+.img{
+    width: 16px;
+    height: 30px;
+}
+
+.img{
+    width: 100%;
+    text-align: center;
+    padding-top: 100px;
+}
+.main{
+    width: 100%;
+    text-align: center;
+    padding-top: 200px;
+}
+.searchbar{
+      width: 580px;
+    height: 44px;
+    border-radius: 24px;
+    margin: 20px auto;
+}
+.footer{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+.footer .left{
+    float: left;
+    padding-left: 20px;
+}
+.footer .right{
+    float: right;
+    padding-right: 70px;
+}
